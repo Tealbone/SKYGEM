@@ -1,0 +1,5 @@
+{
+  "name": "SKYGEM-Lite",
+  "description": "Generates personalized travel itineraries using the Gemini API. Users can input their destination, travel duration, interests, and budget to receive a day-by-day itinerary.",
+  "requestFramePermissions": []
+}
